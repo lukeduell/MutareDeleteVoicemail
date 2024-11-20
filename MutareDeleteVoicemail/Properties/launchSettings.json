@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "MutareDeleteVoicemail": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DOTNET_ENVIRONMENT": "Development",
+        "RUNTIME_ENVIRONMENT": "Development"
+      },
+      "remoteDebugEnabled": false
+    }
+  }
+}
